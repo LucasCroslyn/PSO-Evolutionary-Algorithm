@@ -3,8 +3,8 @@
 This project was doing a simple Particle Swarm Optimization on some mathematical functions. Both single objective and multi-objective swarms were done. 
 
 - The main file that shows the algorithms running is in the [main.ipynb]() Jupyter Notebook.
-- The [SingleFunctions.py] file contains the functions for the single objective Partticle Swarm Optimization.
-- The [MultiFunctions.py] file contains the functions for the multi-objective Particle Swarm Optimization. 
+- The [SingleFunctions.py]() file contains the functions for the single objective Partticle Swarm Optimization.
+- The [MultiFunctions.py]() file contains the functions for the multi-objective Particle Swarm Optimization. 
 - The images used for a writeup are displayed below.
 
 ![PSO_page-0001](https://user-images.githubusercontent.com/91440867/160255958-95e34568-2ec7-46b0-9a13-f59c8fc6d1c1.jpg)
